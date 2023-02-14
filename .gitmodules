@@ -1,0 +1,3 @@
+[submodule "ue5-inv-system"]
+	path = T5GInventorySystem
+	url = https://github.com/rhapidfyre/ue5-inv-system.git
