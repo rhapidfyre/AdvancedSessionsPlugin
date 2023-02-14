@@ -86,3 +86,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+AdvancedSessions/Binaries/Win64/UnrealEditor-AdvancedSessions-Win64-DebugGame.pdb
+AdvancedSessions/Binaries/Win64/UnrealEditor-Win64-DebugGame.modules
+AdvancedSteamSessions/Binaries/Win64/UnrealEditor-AdvancedSteamSessions-Win64-DebugGame.pdb
+AdvancedSteamSessions/Binaries/Win64/UnrealEditor-Win64-DebugGame.modules
