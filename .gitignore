@@ -90,3 +90,7 @@ AdvancedSessions/Binaries/Win64/UnrealEditor-AdvancedSessions-Win64-DebugGame.pd
 AdvancedSessions/Binaries/Win64/UnrealEditor-Win64-DebugGame.modules
 AdvancedSteamSessions/Binaries/Win64/UnrealEditor-AdvancedSteamSessions-Win64-DebugGame.pdb
 AdvancedSteamSessions/Binaries/Win64/UnrealEditor-Win64-DebugGame.modules
+AdvancedSessions/Binaries/Win64/UnrealEditor-AdvancedSessions.pdb
+AdvancedSessions/Binaries/Win64/UnrealEditor.modules
+AdvancedSteamSessions/Binaries/Win64/UnrealEditor-AdvancedSteamSessions.pdb
+AdvancedSteamSessions/Binaries/Win64/UnrealEditor.modules
